@@ -15,6 +15,7 @@ nav {
 
 .right-item {
   background: orange;
+  padding-top: 25%;
   float: left;
   width: 25%;
 }
@@ -24,6 +25,6 @@ nav {
 }
 
 footer {
-  background: blue;
+  background: maroon;
   float: left;
 }
