@@ -1,0 +1,29 @@
+header {
+  background: beige;
+}
+
+nav {
+  background: yellow;
+}
+
+.left-item {
+  background: lime;
+  padding-top: 25%;
+  float: left;
+  width: 75%;
+}
+
+.right-item {
+  background: orange;
+  float: left;
+  width: 25%;
+}
+
+.clearfix {
+  clear: both;
+}
+
+footer {
+  background: blue;
+  float: left;
+}
